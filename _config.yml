@@ -1,0 +1,11 @@
+# Site settings
+name: avishek-blog
+title: Codecity
+email: shahliberty@gmail.com
+description: "free resources on Python, Ruby, Java and many other."
+baseurl: "codecity"
+url: ""
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
